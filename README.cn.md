@@ -2,13 +2,23 @@
 
 [English version](./README.md)
 
-![homebrew-cask-fonts](https://repo.x-cmd.io/homebrew-cask-fonts.svg)
+![homebrew-cask-fonts](https://repo.x-cmd.io/homebrew-cask-fonts.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install homebrew-cask-fonts
 ```
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.4 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — project is archived
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -28,18 +38,11 @@ x install homebrew-cask-fonts
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **5.4 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — project is archived
-- **Dangerous-Workflow** (-1/10) — no workflows found
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -50,4 +53,4 @@ homebrew-cask-fonts 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:33:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:57:09Z._
